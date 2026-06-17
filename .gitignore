@@ -1,0 +1,20 @@
+# Common ignores
+.DS_Store
+.idea/
+*.iml
+target/
+build/
+out/
+
+# Java/Maven
+/target/
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+
